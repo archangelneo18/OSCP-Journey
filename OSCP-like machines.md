@@ -1,4 +1,4 @@
-# Practice solving different OSCP-like machines from HackTheBox and TryHackMe credit goes to ajdumanhug for making this.
+# Practice solving different OSCP-like machines credit goes to ajdumanhug for making this.
 
 ## 1st Set
 | Machine | OS | Point | Link |
